@@ -1,1 +1,1 @@
-# elixir-chat
+# Elixir Chat
